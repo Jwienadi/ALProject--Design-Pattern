@@ -1,4 +1,4 @@
-table 50124 "Example Setup"
+table 50224 "Example Setup"
 {
     Caption = 'Example Setup';
     DataClassification = CustomerContent;

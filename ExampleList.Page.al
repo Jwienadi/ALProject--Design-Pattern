@@ -1,10 +1,12 @@
-page 50103 "Example List"
+page 50203 "Example List"
 {
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = Example;
     Caption = 'Example List';
+    CardPageId = "Example Card";
+    Editable = false;
 
     layout
     {

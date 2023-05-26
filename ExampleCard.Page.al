@@ -1,4 +1,4 @@
-page 50102 "Example Card"
+page 50202 "Example Card"
 {
     PageType = Card;
     UsageCategory = None;

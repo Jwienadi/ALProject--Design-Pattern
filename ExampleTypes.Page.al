@@ -1,4 +1,4 @@
-page 50104 "Example Types"
+page 50204 "Example Types"
 {
     PageType = List;
     ApplicationArea = All;

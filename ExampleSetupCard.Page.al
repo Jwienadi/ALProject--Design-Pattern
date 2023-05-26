@@ -1,4 +1,4 @@
-page 50101 ExampleSetupCard
+page 50201 ExampleSetupCard
 {
     ApplicationArea = All;
     Caption = 'Example Setup Card';

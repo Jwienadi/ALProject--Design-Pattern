@@ -1,8 +1,8 @@
 {
   "id": "1e5cb2c4-a13a-4e40-bd5f-a1a4bc08d181",
   "name": "ALProject- Design Pattern",
-  "publisher": "Default publisher",
-  "version": "1.0.0.0",
+  "publisher": "CRONUS",
+  "version": "1.0.0.1",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -16,8 +16,8 @@
   "application": "22.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 50200,
+      "to": 50249
     }
   ],
   "resourceExposurePolicy": {
