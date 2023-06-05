@@ -14,6 +14,12 @@ table 50224 "Example Setup"
             Caption = 'Example Nos.';
             TableRelation = "No. Series";
         }
+        field(3; "Document Nos."; Code[20])
+        {
+            DataClassification = ToBeClassified;
+            TableRelation = "No. Series";
+        }
+
     }
     keys
     {

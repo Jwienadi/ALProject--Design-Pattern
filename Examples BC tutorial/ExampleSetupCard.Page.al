@@ -15,6 +15,10 @@ page 50201 ExampleSetupCard
             group(General)
             {
                 Caption = 'General';
+                field("Document Nos."; Rec."Document Nos.")
+                {
+                    ToolTip = 'Specifies the value of the Document Nos. field.';
+                }
 
                 field("Example Nos."; Rec."Example Nos.")
                 {
