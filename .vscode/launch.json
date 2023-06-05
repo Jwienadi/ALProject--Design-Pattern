@@ -9,7 +9,7 @@
             "server": "http://bcwin2022.centralindia.cloudapp.azure.com",
             "serverInstance": "BC220",
             "authentication": "UserPassword",
-            "startupObjectId": 50202,
+            "startupObjectId": 50203,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,

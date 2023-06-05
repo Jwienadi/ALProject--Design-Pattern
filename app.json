@@ -2,7 +2,7 @@
   "id": "1e5cb2c4-a13a-4e40-bd5f-a1a4bc08d181",
   "name": "ALProject- Design Pattern",
   "publisher": "CRONUS",
-  "version": "1.0.0.1",
+  "version": "1.0.0.4",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,7 +10,9 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
